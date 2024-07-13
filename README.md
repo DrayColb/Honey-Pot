@@ -7,14 +7,12 @@ This project is a Honey Pot created using Microsoft Azure. I will be creating a 
 
   
  <h2> Here is the virtual machine that I have made vulnerable by allowing any ports and protocol </h2> 
-  
 
+![H1](https://github.com/user-attachments/assets/24626bfc-cd06-4421-a4af-14cef3760403)
 
+<h2> Here I will create the log that will hold our failed RDP </h2>
 
-
-
-<h2> Here I will be giving password reset power of the Sales department to Phillip </h2>
-
+![H3](https://github.com/user-attachments/assets/f5d3a595-21ea-445c-9af2-b247426a9385)
 
 <h2> Then, I will RDP into Phillip's account and use two powershell commands to reset Sophie's password and she will have create a new password upon Logon </h2>
 
